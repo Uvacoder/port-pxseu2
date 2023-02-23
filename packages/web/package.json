@@ -31,6 +31,9 @@
 		"twemoji": "^13.1.0",
 		"yup": "^0.32.9"
 	},
+	"engines": {
+                "node": "16.18.1"
+  	},
 	"devDependencies": {
 		"@types/nprogress": "^0.2.0",
 		"@types/react": "^17.0.11",
